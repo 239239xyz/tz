@@ -4,7 +4,7 @@ window.Config = {
     SiteName: "Site Status",
 
     // 站点链接
-    SiteUrl: "https://daoke123.github.io/tz/",
+    SiteUrl: "https://239239xyz.github.io/tz/",
 
     // UptimeRobot Api Keys
     // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
@@ -24,7 +24,7 @@ window.Config = {
     Navi: [
         {
             text: "Home",
-            url: "https://daoke123.github.io/tz/",
+            url: "https://239239xyz.github.io/tz/",
         },
         {
             text: "Blog",
